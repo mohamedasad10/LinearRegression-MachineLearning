@@ -1,4 +1,4 @@
-CSC312 Machine Learning Assignment
+# CSC312 Machine Learning Assignment
 
 Overview:
 This repository contains the solutions and implementations for the CSC312 Machine Learning assignment. The assignment focuses on understanding and implementing linear regression, both from scratch and using the sklearn library.
