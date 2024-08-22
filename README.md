@@ -3,7 +3,8 @@ CSC312 Machine Learning Assignment
 Overview:
 This repository contains the solutions and implementations for the CSC312 Machine Learning assignment. The assignment focuses on understanding and implementing linear regression, both from scratch and using the sklearn library.
 
-Project Structure
+Project Structure:
+
 Task 1: Implement Linear Regression using Gradient Descent
 Objective: Develop a linear regression model by implementing gradient descent to optimize the cost function.
 Key Functions:
